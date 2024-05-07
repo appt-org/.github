@@ -27,6 +27,6 @@ The ScreenReader app contains exercises to learn VoiceOver and TalkBack.
 ## Archives
 
 - [Repository: Appt.org website (replaced by `appt-website`)](https://github.com/appt-org/appt-org)
-- [Repository: Accessibility code examples (merged with `appt-website`)[https://github.com/appt-org/accessibility-code-examples]
+- [Repository: Accessibility code examples (merged with `appt-website`)](https://github.com/appt-org/accessibility-code-examples)
 - [Repository: Accessibility library for Android (proof-of-concept)](https://github.com/appt-org/accessibility-android/)
 - [Repository: Accessibility library for iOS (proof-of-concept)](https://github.com/appt-org/accessibility-ios/)
